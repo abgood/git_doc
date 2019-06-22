@@ -1,0 +1,14 @@
+git log --graph --decorate --oneline --simplify-by-decoration --all
+
+git log --graph --decorate --oneline --all
+
+git blame file
+
+git rebase -i commitid
+
+gitk --all
+
+https://blog.csdn.net/fickyou/article/details/52584161
+https://blog.csdn.net/trochiluses/article/details/8996431
+https://www.cnblogs.com/chucklu/p/4748394.html
+https://www.jianshu.com/p/fc026968c405
